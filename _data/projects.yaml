@@ -1,47 +1,32 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Earl Grey ParTEA
+  subtitle: Multiple genomes? Time for a ParTEA!
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/projects/partea.png
+  link: https://github.com/TobyBaril/EarlGreyParTEA
+  description: ParTEA (Pangenome Transposable Element Analysis) is a Snakemake-based pipeline that brings the party to multi-genome TE annotation! It extends EarlGrey to process multiple genomes in parallel, build pangenome TE libraries, and perform comparative transposable element analysis across species.
+  repo: tobybaril/earlgreypartea
   tags:
-    - resource
+    - software
+    - transposable-elements
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Earl Grey
+  subtitle: User-friendly TE annotation for everyone!
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/projects/earlgrey.png
+  link: https://github.com/TobyBaril/EarlGrey
+  description: Fully automated, user-friendly, and reproducible transposable element annotation pipeline for eukaryotic genomes. Earl Grey is designed to be easy to use for both novice and experienced users, providing a comprehensive TE annotation workflow that can be run with minimal input and configuration.
+  repo: tobybaril/earlgrey
   tags:
-    - resource
+    - software
+    - transposable-elements
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: MycoMobilome
+  subtitle: A non-redundant database of transposable elements for the fungal kingdom
+  image: images/projects/mycomobilome.png
+  link: https://github.com/TobyBaril/MycoMobilome
+  paper: https://doi.org/10.1093/nargab/lqag026
+  description: MycoMobilome is a database of transposable elements (TEs) from the fungal kingdom. It provides a comprehensive and non-redundant collection of TEs, along with their classification, annotation, and associated metadata. MycoMobilome aims to facilitate the study of TE diversity, evolution, and impact on fungal genomes.
+  repo: tobybaril/mycomobilome
   tags:
-    - resource
+    - database
     - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software

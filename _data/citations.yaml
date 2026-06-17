@@ -1,282 +1,699 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1093/gbe/evag017
+  title: "Chromosome-scale Genome Assembly of the Most Abundant Ectomycorrhizal Fungus\n\
+    \                    <i>Cenococcum Geophilum</i>\n                    Reveals\
+    \ Massive TE Expansion and RIP Defense Mechanism"
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Benjamin Dauphin
+  - Tobias Baril
+  - Emmanuelle Morin
+  - Ursula Oggenfuss
+  - Stephanie Pfister
+  - Maira De Freitas Pereira
+  - Igor V Grigoriev
+  - Annegret Kohler
+  - Francis Martin
+  - Daniel Croll
+  - Martina Peter
+  publisher: Genome Biology and Evolution
+  date: '2026-01-22'
+  link: https://doi.org/hbptjq
+  orcid: 0000-0002-5936-7531
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1093/nargab/lqag026
+  title: 'MycoMobilome: a community-focused non-redundant database of transposable
+    element consensus sequences for the fungal kingdom'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Tobias Baril
+  - Daniel Croll
+  publisher: NAR Genomics and Bioinformatics
+  date: '2026-01-06'
+  link: https://doi.org/hbrnw2
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cub.2025.11.062
+  title: 'Evolution: Transposon traffic in the mycocosmos'
+  authors:
+  - Tobias Baril
+  publisher: Current Biology
+  date: '2026-01-01'
+  link: https://doi.org/hb72q5
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tim.2025.07.006
+  title: 'Hypermutator fungal pathogens: from threat to meltdown'
+  authors:
+  - Tobias Baril
+  - Daniel Croll
+  publisher: Trends in Microbiology
+  date: '2026-01-01'
+  link: https://doi.org/g9wqnw
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-025-64944-4
+  title: Historic transposon mobilisation waves create distinct pools of adaptive
+    variants in a major crop pathogen
+  authors:
+  - Tobias Baril
+  - Guido Puccetti
+  - Daniel Croll
+  publisher: Nature Communications
+  date: '2025-11-12'
+  link: https://doi.org/g995zr
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.10.28.685023
+  title: 'MycoMobilome: A community-focused non-redundant database of transposable
+    element consensus sequences for the fungal kingdom'
+  authors:
+  - Tobias Baril
+  - Daniel Croll
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2025-10-28'
+  link: https://doi.org/g98qkz
+  orcid: 0000-0002-5936-7531
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1038/s41598-025-19494-6
+  title: Genomic structure and life history variation of isofemale lineages of Myzus
+    persicae with different levels of parasitization by Diaeretiella rapae
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Mariane Possignolo Gomes
+  - Ewerton Costa Lira
+  - Idemauro Antonio Rodrigues de Lara
+  - Rafael de Andrade Moral
+  - Rita Rebollo
+  - Tobias Baril
+  - "Fernando Luis C\xF4nsoli"
+  publisher: Scientific Reports
+  date: '2025-10-10'
+  link: https://doi.org/hb72q6
+  orcid: 0000-0002-5936-7531
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1016/j.ibmb.2025.104403
+  title: Sub-lethal insecticide stress alters epimutation rate but not genetic mutation
+    rate in the pest insect Myzus persicae
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Benjamin J. Hunt
+  - Kumar Saurabh Singh
+  - Bartlomiej J. Troczka
+  - Joanna Mackisack
+  - Emma Randall
+  - Mark Mallott
+  - Tobias Baril
+  - James Galbraith
+  - Bram Kuijper
+  - Ralf Nauen
+  - Alex Hayward
+  - Chris Bass
+  publisher: Insect Biochemistry and Molecular Biology
+  date: '2025-11-01'
+  link: https://doi.org/hb72q7
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msae197
+  title: Genomic Signatures of Domestication in a Fungus Obligately Farmed by Leafcutter
+    Ants
+  authors:
+  - Caio A Leal-Dutra
+  - Joel Vizueta
+  - Tobias Baril
+  - Pepijn W Kooij
+  - "Asta R\xF8dsgaard-J\xF8rgensen"
+  - Benjamin H Conlon
+  - Daniel Croll
+  - Jonathan Z Shik
+  publisher: Molecular Biology and Evolution
+  date: '2024-09-17'
+  link: https://doi.org/g5w39s
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/GBE/EVAE049
+  title: Calling Structural Variants with Confidence from Short-Read Data in Wild
+    Bird Populations
+  authors:
+  - Gabriel David
+  - Alicia Bertolotti
+  - Ryan Layer
+  - Douglas Scofield
+  - Alexander Hayward
+  - Tobias Baril
+  - Hamish A Burnett
+  - Erik Gudmunds
+  - Henrik Jensen
+  - Arild Husby
+  publisher: Genome Biology and Evolution
+  date: '2024-03-15'
+  link: https://doi.org/gtt8sg
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/MOLBEV/MSAE068
+  title: 'Earl Grey: A Fully Automated User-Friendly Transposable Element Annotation
+    and Analysis Pipeline'
+  authors:
+  - Tobias Baril
+  - James Galbraith
+  - Alex Hayward
+  publisher: Molecular Biology and Evolution
+  date: '2024-04-01'
+  link: https://doi.org/g8gs8q
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/MOLBEV/MSAE246
+  title: 'The Sensory Shark: High-quality Morphological, Genomic and Transcriptomic
+    Data for the Small-spotted Catshark <i>Scyliorhinus Canicula</i> Reveal the Molecular
+    Bases of Sensory Organ Evolution in Jawed Vertebrates'
+  authors:
+  - "H\xE9l\xE8ne Mayeur"
+  - Jake Leyhr
+  - John Mulley
+  - Nicolas Leurs
+  - "L\xE9o Michel"
+  - Kanika Sharma
+  - Ronan Lagadec
+  - Jean-Marc Aury
+  - Owen G Osborne
+  - Peter Mulhair
+  - Julie Poulain
+  - Sophie Mangenot
+  - Daniel Mead
+  - Michelle Smith
+  - Craig Corton
+  - Karen Oliver
+  - Jason Skelton
+  - Emma Betteridge
+  - Jale Dolucan
+  - Olga Dudchenko
+  - Arina D Omer
+  - David Weisz
+  - Erez L Aiden
+  - Shane A McCarthy
+  - Ying Sims
+  - James Torrance
+  - Alan Tracey
+  - Kerstin Howe
+  - Tobias Baril
+  - Alexander Hayward
+  - Camille Martinand-Mari
+  - Sophie Sanchez
+  - Tatjana Haitina
+  - Kyle Martin
+  - Sigrun I Korsching
+  - Sylvie Mazan
+  - "M\xE9lanie Debiais-Thibaud"
+  publisher: Molecular Biology and Evolution
+  date: '2024-12-01'
+  link: https://doi.org/g84tb9
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.277820.123
+  title: Transposon accumulation at xenobiotic gene family loci in aphids
+  authors:
+  - Tobias Baril
+  - Adam Pym
+  - Chris Bass
+  - Alex Hayward
+  publisher: Genome Research
+  date: '2023-10-01'
+  link: https://doi.org/g5dkjr
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/MOLBEV/MSAD115
+  title: A New Chromosome-Assigned Mongolian Gerbil Genome Allows Characterization
+    of Complete Centromeres and a Fully Heterochromatic Chromosome
+  authors:
+  - Thomas D Brekke
+  - Alexander S T Papadopulos
+  - "Eva Juli\xE0"
+  - Oscar Fornas
+  - Beiyuan Fu
+  - Fengtang Yang
+  - Roberto de la Fuente
+  - Jesus Page
+  - Tobias Baril
+  - Alexander Hayward
+  - John F Mulley
+  publisher: Molecular Biology and Evolution
+  date: '2023-05-01'
+  link: https://doi.org/gr8rhf
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S13104-023-06613-7
+  title: A pangenome-guided manually curated library of transposable elements for
+    Zymoseptoria tritici
+  authors:
+  - Tobias Baril
+  - Daniel Croll
+  publisher: BMC Research Notes
+  date: '2023-11-16'
+  link: https://doi.org/gs48q8
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S12915-023-01703-1
+  title: The genome and sex-dependent responses to temperature in the common yellow
+    butterfly, Eurema hecabe
+  authors:
+  - Ivy H. T. Lee
+  - Wenyan Nong
+  - Wai Lok So
+  - Chris K. H. Cheung
+  - Yichun Xie
+  - Toby Baril
+  - Ho Yin Yip
+  - Thomas Swale
+  - Simon K. F. Chan
+  - Yingying Wei
+  - Nathan Lo
+  - Alexander Hayward
+  - Ting Fung Chan
+  - Hon-ming Lam
+  - Jerome H. L. Hui
+  publisher: BMC Biology
+  date: '2023-09-25'
+  link: https://doi.org/hb72q8
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.09.21.508825
+  title: A chromosome-assigned Mongolian gerbil genome with sequenced centromeres
+    provides evidence of a new chromosome
+  authors:
+  - Thomas D. Brekke
+  - Alexander S. T. Papadopulos
+  - "Eva Juli\xE0"
+  - Oscar Fornas
+  - Beiyuan Fu
+  - Fengtang Yang
+  - Roberto de la Fuente
+  - Jesus Page
+  - Tobias Baril
+  - Alexander Hayward
+  - John F. Mulley
   publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2022-09-22'
+  link: https://doi.org/hb72q9
+  orcid: 0000-0002-5936-7531
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.ygeno.2022.110440
+  title: 'Chromosomal-level reference genome of the moth Heortia vitessoides (Lepidoptera:
+    Crambidae), a major pest of agarwood-producing trees'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Sean T.S. Law
+  - Wenyan Nong
+  - Wai Lok So
+  - Tobias Baril
+  - Thomas Swale
+  - Chi Bun Chan
+  - Stephen S. Tobe
+  - Zhen-Peng Kai
+  - William G. Bendena
+  - Alexander Hayward
+  - Jerome H.L. Hui
+  publisher: Genomics
+  date: '2022-07-01'
+  link: https://doi.org/hb72rb
+  orcid: 0000-0002-5936-7531
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1038/s41467-022-30690-0
+  title: Myriapod genomes reveal ancestral horizontal gene transfer and hormonal gene
+    loss in millipedes
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Wai Lok So
+  - Wenyan Nong
+  - Yichun Xie
+  - Tobias Baril
+  - Hai-yao Ma
+  - Zhe Qu
+  - Jasmine Haimovitz
+  - Thomas Swale
+  - Juan Diego Gaitan-Espitia
+  - Kwok Fai Lau
+  - Stephen S. Tobe
+  - William G. Bendena
+  - Zhen-peng Kai
+  - Alexander Hayward
+  - Jerome H. L. Hui
+  publisher: Nature Communications
+  date: '2022-05-30'
+  link: https://doi.org/hb72rc
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/g3journal/jkac069
+  title: "The genome sequence of the lesser marbled fritillary,\n                \
+    \    <i>Brenthis ino</i>\n                    , and evidence for a segregating\
+    \ neo-Z chromosome"
+  authors:
+  - Alexander Mackintosh
+  - Dominik R Laetsch
+  - Tobias Baril
+  - Robert G Foster
+  - "Vlad Dinc\u0103"
+  - Roger Vila
+  - Alexander Hayward
+  - Konrad Lohse
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2022-03-28'
+  link: https://doi.org/gsxkbm
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13100-022-00263-5
+  title: 'Migrators within migrators: exploring transposable element dynamics in the
+    monarch butterfly, Danaus plexippus'
+  authors:
+  - Tobias Baril
+  - Alexander Hayward
+  publisher: Mobile DNA
+  date: '2022-02-16'
+  link: https://doi.org/hb72rd
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/MEC.16588
+  title: "Genome\u2010wide transcriptomic changes reveal the genetic pathways involved\
+    \ in insect migration"
+  authors:
+  - Toby Doyle
+  - "Eva Jimenez\u2010Guri"
+  - Will L. S. Hawkes
+  - Richard Massy
+  - Federica Mantica
+  - Jon Permanyer
+  - Luca Cozzuto
+  - Toni Hermoso Pulido
+  - Tobias Baril
+  - Alex Hayward
+  - Manuel Irimia
+  - Jason W. Chapman
+  - Chris Bass
+  - Karl R. Wotton
+  publisher: Molecular Ecology
+  date: '2022-07-12'
+  link: https://doi.org/hb72rf
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/G3JOURNAL/JKAC193
+  title: "The genome sequence of the scarce swallowtail,\n                    <i>Iphiclides\
+    \ podalirius</i>"
+  authors:
+  - Alexander Mackintosh
+  - Dominik R Laetsch
+  - Tobias Baril
+  - Sam Ebdon
+  - Paul Jay
+  - Roger Vila
+  - Alex Hayward
+  - Konrad Lohse
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2022-08-05'
+  link: https://doi.org/gsxqx8
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.12688/wellcomeopenres.17280.1
+  title: The genome sequence of the heath fritillary, Melitaea athalia (Rottemburg,
+    1775)
+  authors:
+  - Alex Hayward
+  - Roger Vila
+  - Dominik R. Laetsch
+  - Konrad Lohse
+  - Tobias Baril
+  publisher: Wellcome Open Research
+  date: '2021-11-10'
+  link: https://doi.org/hb72rg
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.09.26.461848
+  title: Broadscale evolutionary analysis of eukaryotic DDE transposons
+  authors:
+  - Mathilde Dupeyron
+  - Tobias Baril
+  - Alexander Hayward
   publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2021-09-26'
+  link: https://doi.org/gsx4kw
+  orcid: 0000-0002-5936-7531
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1038/S42003-020-01637-2
+  title: Horseshoe crab genomes reveal the evolution of genes and microRNAs after
+    three rounds of whole genome duplication
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
+  - Wenyan Nong
+  - Zhe Qu
+  - Yiqian Li
+  - Tom Barton-Owen
+  - Annette Y. P. Wong
+  - Ho Yin Yip
+  - Hoi Ting Lee
+  - Satya Narayana
+  - Tobias Baril
+  - Thomas Swale
+  - Jianquan Cao
+  - Ting Fung Chan
+  - Hoi Shan Kwan
+  - Sai Ming Ngai
+  - Gianni Panagiotou
+  - Pei-Yuan Qian
+  - Jian-Wen Qiu
+  - Kevin Y. Yip
+  - Noraznawati Ismail
+  - Siddhartha Pati
+  - Akbar John
+  - Stephen S. Tobe
+  - William G. Bendena
+  - Siu Gin Cheung
+  - Alexander Hayward
+  - Jerome H. L. Hui
+  publisher: Communications Biology
+  date: '2021-01-19'
+  link: https://doi.org/gr8m34
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12864-020-07145-1
+  title: 'Genome of the four-finger threadfin Eleutheronema tetradactylum (Perciforms:
+    Polynemidae)'
+  authors:
+  - Zhe Qu
+  - Wenyan Nong
+  - Yifei Yu
+  - Tobias Baril
+  - Ho Yin Yip
+  - Alexander Hayward
+  - Jerome H. L. Hui
+  publisher: BMC Genomics
+  date: '2020-10-19'
+  link: https://doi.org/grc5f4
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13100-020-00212-0
+  title: Phylogenetic analysis of the Tc1/mariner superfamily reveals the unexplored
+    diversity of pogo-like elements
+  authors:
+  - Mathilde Dupeyron
+  - Tobias Baril
+  - Chris Bass
+  - Alexander Hayward
+  publisher: Mobile DNA
+  date: '2020-06-29'
+  link: https://doi.org/hb72rh
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12864-020-07027-6
+  title: Reconstruction of ancient homeobox gene linkages inferred from a new high-quality
+    assembly of the Hong Kong oyster (Magallana hongkongensis) genome
+  authors:
+  - Yiqian Li
+  - Wenyan Nong
+  - Tobias Baril
+  - Ho Yin Yip
+  - Thomas Swale
+  - Alexander Hayward
+  - David E. K. Ferrier
+  - Jerome H. L. Hui
+  publisher: BMC Genomics
+  date: '2020-10-15'
+  link: https://doi.org/hb72rj
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pbio.3000636
+  title: Millipede genomes reveal unique adaptations during myriapod evolution
+  authors:
+  - Zhe Qu
+  - Wenyan Nong
+  - Wai Lok So
+  - Tom Barton-Owen
+  - Yiqian Li
+  - Thomas C. N. Leung
+  - Chade Li
+  - Tobias Baril
+  - Annette Y. P. Wong
+  - Thomas Swale
+  - Ting-Fung Chan
+  - Alexander Hayward
+  - Sai-Ming Ngai
+  - Jerome H. L. Hui
+  publisher: PLOS Biology
+  date: '2020-09-29'
+  link: https://doi.org/hb72rk
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1755-0998.13154
+  title: "Chromosomal\u2010level reference genome of the incense tree\n          \
+    \          <i>Aquilaria sinensis</i>"
+  authors:
+  - Wenyan Nong
+  - Sean T. S. Law
+  - Annette Y. P. Wong
+  - Tobias Baril
+  - Thomas Swale
+  - Lee Man Chu
+  - Alexander Hayward
+  - David T. W. Lau
+  - Jerome H. L. Hui
+  publisher: Molecular Ecology Resources
+  date: '2020-04-08'
+  link: https://doi.org/ggn3wf
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/GIGASCIENCE/GIZ152
+  title: A draft genome sequence of the elusive giant squid, <i>Architeuthis dux</i>
+  authors:
+  - Rute R da Fonseca
+  - Alvarina Couto
+  - Andre M Machado
+  - Brona Brejova
+  - Carolin B Albertin
+  - Filipe Silva
+  - Paul Gardner
+  - Tobias Baril
+  - Alex Hayward
+  - Alexandre Campos
+  - "\xC2ngela M Ribeiro"
+  - Inigo Barrio-Hernandez
+  - Henk-Jan Hoving
+  - Ricardo Tafur-Jimenez
+  - Chong Chu
+  - "Barbara Fraz\xE3o"
+  - Bent Petersen
+  - "Fernando Pe\xF1aloza"
+  - Francesco Musacchia
+  - Graham C Alexander
+  - "Hugo Os\xF3rio"
+  - Inger Winkelmann
+  - Oleg Simakov
+  - Simon Rasmussen
+  - M Ziaur Rahman
+  - Davide Pisani
+  - Jakob Vinther
+  - Erich Jarvis
+  - Guojie Zhang
+  - Jan M Strugnell
+  - L Filipe C Castro
+  - Olivier Fedrigo
+  - Mateus Patricio
+  - Qiye Li
+  - Sara Rocha
+  - Agostinho Antunes
+  - Yufeng Wu
+  - Bin Ma
+  - Remo Sanges
+  - Tomas Vinar
+  - Blagoy Blagoev
+  - Thomas Sicheritz-Ponten
+  - Rasmus Nielsen
+  - M Thomas P Gilbert
   publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
   date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  link: https://doi.org/ggjqmp
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.03.03.972679
+  title: "Chromosomal-level reference genome of the incense tree\n               \
+    \   <i>Aquilaria sinensis</i>"
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Wenyan Nong
+  - Sean T.S. Law
+  - Annette Y.P. Wong
+  - Tobias Baril
+  - Thomas Swale
+  - Lee Man Chu
+  - Alexander Hayward
+  - David T.W. Lau
+  - Jerome H.L. Hui
+  publisher: openRxiv
+  date: '2020-03-05'
+  link: https://doi.org/gk3pg5
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.04.16.045815
+  title: Horseshoe crab genomes reveal the evolutionary fates of genes and microRNAs
+    after three rounds (3R) of whole genome duplication
+  authors:
+  - Wenyan Nong
+  - Zhe Qu
+  - Yiqian Li
+  - Tom Barton-Owen
+  - Annette Y.P. Wong
+  - Ho Yin Yip
+  - Hoi Ting Lee
+  - Satya Narayana
+  - Tobias Baril
+  - Thomas Swale
+  - Jianquan Cao
+  - Ting Fung Chan
+  - Hoi Shan Kwan
+  - Ngai Sai Ming
+  - Gianni Panagiotou
+  - Pei-Yuan Qian
+  - Jian-Wen Qiu
+  - Kevin Y. Yip
+  - Noraznawati Ismail
+  - Siddhartha Pati
+  - Akbar John
+  - Stephen S. Tobe
+  - William G. Bendena
+  - Siu Gin Cheung
+  - Alexander Hayward
+  - Jerome H. L. Hui
+  publisher: openRxiv
+  date: '2020-04-18'
+  link: https://doi.org/gk2k7z
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+- title: A draft genome sequence of the elusive giant squid, Architeuthis dux
+  date: '2022-05-29'
+  link: http://hdl.handle.net/10871/39675
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
