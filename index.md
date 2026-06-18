@@ -7,7 +7,9 @@ We are fascinated by how mobile DNA, genome architecture, and environmental chan
 
 Our work spans processes from within-population genetic variation to deep evolutionary comparisons across the tree of life and across kingdoms. Alongside discovery-driven research, we develop open and user-friendly tools that make modern genomics more accessible and help the wider community explore genome evolution in their own research.
 
-We are based at the [Naturhistoriska Riksmuseet (Swedish Museum of Natural History)](https://www.nrm.se/engelska/in-english) in Stockholm, Sweden. Interested in joining our lab? Check out our [open positions](positions) or [drop Toby a message](contact) to learn more.
+We are based at the [Naturhistoriska Riksmuseet (Swedish Museum of Natural History)](https://www.nrm.se/engelska/in-english) in Stockholm, Sweden.
+
+**Interested in joining our lab? Check out our [open positions](positions) or [drop Toby a message](contact) to learn more.**
 
 {% include section.html %}
 
