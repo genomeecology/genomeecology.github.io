@@ -57,7 +57,7 @@ We work at the interface of **genomics**, **evolutionary biology**, and **comput
   include feature.html
   image="images/highlights/earlgrey.png"
   link="projects"
-  title="Our Projects"
+  title="Our Interests"
   flip=true
   style="bare"
   text=text
