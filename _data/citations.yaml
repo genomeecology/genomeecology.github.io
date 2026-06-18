@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.06.15.732387
+  title: Transposable elements underlie chromosomal fusions and fissions in a highly
+    species-rich group of butterflies
+  authors:
+  - Camille Cornet
+  - Tobias Baril
+  - Charlotte Wright
+  - Kay Lucek
+  publisher: openRxiv
+  date: '2026-06-17'
+  link: https://doi.org/hb759r
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/gbe/evag017
   title: "Chromosome-scale Genome Assembly of the Most Abundant Ectomycorrhizal Fungus\n\
     \                    <i>Cenococcum Geophilum</i>\n                    Reveals\
@@ -19,18 +33,6 @@
   publisher: Genome Biology and Evolution
   date: '2026-01-22'
   link: https://doi.org/hbptjq
-  orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nargab/lqag026
-  title: 'MycoMobilome: a community-focused non-redundant database of transposable
-    element consensus sequences for the fungal kingdom'
-  authors:
-  - Tobias Baril
-  - Daniel Croll
-  publisher: NAR Genomics and Bioinformatics
-  date: '2026-01-06'
-  link: https://doi.org/hbrnw2
   orcid: 0000-0002-5936-7531
   plugin: orcid.py
   file: orcid.yaml
@@ -65,18 +67,6 @@
   publisher: Nature Communications
   date: '2025-11-12'
   link: https://doi.org/g995zr
-  orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2025.10.28.685023
-  title: 'MycoMobilome: A community-focused non-redundant database of transposable
-    element consensus sequences for the fungal kingdom'
-  authors:
-  - Tobias Baril
-  - Daniel Croll
-  publisher: openRxiv
-  date: '2025-10-28'
-  link: https://doi.org/g98qkz
   orcid: 0000-0002-5936-7531
   plugin: orcid.py
   file: orcid.yaml
@@ -286,27 +276,6 @@
   publisher: BMC Biology
   date: '2023-09-25'
   link: https://doi.org/hb72q8
-  orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.09.21.508825
-  title: A chromosome-assigned Mongolian gerbil genome with sequenced centromeres
-    provides evidence of a new chromosome
-  authors:
-  - Thomas D. Brekke
-  - Alexander S. T. Papadopulos
-  - "Eva Juli\xE0"
-  - Oscar Fornas
-  - Beiyuan Fu
-  - Fengtang Yang
-  - Roberto de la Fuente
-  - Jesus Page
-  - Tobias Baril
-  - Alexander Hayward
-  - John F. Mulley
-  publisher: openRxiv
-  date: '2022-09-22'
-  link: https://doi.org/hb72q9
   orcid: 0000-0002-5936-7531
   plugin: orcid.py
   file: orcid.yaml
@@ -583,7 +552,7 @@
   orcid: 0000-0002-5936-7531
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/GIGASCIENCE/GIZ152
+- id: doi:10.1093/gigascience/giz152
   title: A draft genome sequence of the elusive giant squid, <i>Architeuthis dux</i>
   authors:
   - Rute R da Fonseca
@@ -631,69 +600,37 @@
   - Rasmus Nielsen
   - M Thomas P Gilbert
   publisher: GigaScience
-  date: '2020-01-01'
+  date: '2020-01-16'
   link: https://doi.org/ggjqmp
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.03.03.972679
-  title: "Chromosomal-level reference genome of the incense tree\n               \
-    \   <i>Aquilaria sinensis</i>"
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1093/gigascience/giac012
+  title: "Genome of the ramshorn snail Biomphalaria straminea\u2014an obligate intermediate\
+    \ host of schistosomiasis"
   authors:
   - Wenyan Nong
-  - Sean T.S. Law
-  - Annette Y.P. Wong
-  - Tobias Baril
-  - Thomas Swale
-  - Lee Man Chu
-  - Alexander Hayward
-  - David T.W. Lau
-  - Jerome H.L. Hui
-  publisher: openRxiv
-  date: '2020-03-05'
-  link: https://doi.org/gk3pg5
-  orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.04.16.045815
-  title: Horseshoe crab genomes reveal the evolutionary fates of genes and microRNAs
-    after three rounds (3R) of whole genome duplication
-  authors:
-  - Wenyan Nong
-  - Zhe Qu
+  - Yifei Yu
+  - Madeleine E Aase-Remedios
+  - Yichun Xie
+  - Wai Lok So
   - Yiqian Li
-  - Tom Barton-Owen
-  - Annette Y.P. Wong
-  - Ho Yin Yip
-  - Hoi Ting Lee
-  - Satya Narayana
+  - Cheuk Fung Wong
   - Tobias Baril
+  - Sean T S Law
+  - Sheung Yee Lai
+  - Jasmine Haimovitz
   - Thomas Swale
-  - Jianquan Cao
-  - Ting Fung Chan
-  - Hoi Shan Kwan
-  - Ngai Sai Ming
-  - Gianni Panagiotou
-  - Pei-Yuan Qian
-  - Jian-Wen Qiu
-  - Kevin Y. Yip
-  - Noraznawati Ismail
-  - Siddhartha Pati
-  - Akbar John
-  - Stephen S. Tobe
-  - William G. Bendena
-  - Siu Gin Cheung
+  - Shan-shan Chen
+  - Zhen-peng Kai
+  - Xi Sun
+  - Zhongdao Wu
   - Alexander Hayward
-  - Jerome H. L. Hui
-  publisher: openRxiv
-  date: '2020-04-18'
-  link: https://doi.org/gk2k7z
+  - David E K Ferrier
+  - Jerome H L Hui
+  publisher: GigaScience
+  date: '2026-02-15'
+  link: https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac012/6528774
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
-- title: A draft genome sequence of the elusive giant squid, Architeuthis dux
-  date: '2022-05-29'
-  link: http://hdl.handle.net/10871/39675
-  orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml

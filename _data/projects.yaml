@@ -1,6 +1,26 @@
+- title: Transposable Elements, Host-TE Interactions, and Genome Evolution
+  group: interests
+  image: images/projects/te-phylo.png
+  description: We are fascinated by the role of transposable elements (TEs) in shaping genomes and generating genetic novelty. We investigate how these mobile pieces of DNA interact with their hosts, influence adaptation, and contribute to genome evolution across the tree of life. By studying organisms ranging from fungi to plants and animals, and timescales ranging from contemporary populations to hundreds of millions of years of evolution, we aim to understand when TEs act as genomic parasites, when they become drivers of innovation, and how these interactions shape biodiversity.
+
+- title: Genome Ecology and Biodiversity Change
+  group: interests
+  image: images/projects/genome-ecology.png
+  description: We want to understand how changing environments lead to changing genomes. Just as species interact with one another in ecosystems, genomes are shaped by the environments in which they evolve. We investigate how environmental change influences genome architecture and structural variation, and how these changes contribute to adaptation. By linking ecological processes to genome evolution, we aim to understand how species respond to environmental challenges and what this means for the future of biodiversity.
+
+- title: AI and Computational Tools for Biodiversity Genomics
+  group: interests
+  image: images/projects/ai-genomics.png
+  description: We are excited by the potential of artificial intelligence (AI) to transform how we study genome evolution. We develop interpretable AI approaches that help researchers identify and understand genes, TEs, and other genomic features across diverse organisms. Rather than treating AI as a black box, we aim to use these models to uncover the biological rules that govern genome organisation and evolution while developing tools that make genomic analyses more accessible across the diversity of life.
+
+- title: The Evolutionary History of Mobile DNA
+  group: interests
+  image: images/projects/te-evolution.png
+  description: We are interested in understanding how TEs became such a widespread and enduring feature of eukaryotic genomes. Using large-scale comparative genomics, we reconstruct the origins, diversification, and spread of TEs across the tree of life. By tracing their evolutionary histories over hundreds of millions of years, we aim to understand why some TE lineages flourish while others disappear, and how TEs have evolved to persist over deep time.
+
 - title: Earl Grey ParTEA
   subtitle: Multiple genomes? Time for a ParTEA!
-  group: featured
+  group: tools-datasets
   image: images/projects/partea.png
   link: https://github.com/TobyBaril/EarlGreyParTEA
   description: ParTEA (Pangenome Transposable Element Analysis) is a Snakemake-based pipeline that brings the party to multi-genome TE annotation! It extends EarlGrey to process multiple genomes in parallel, build pangenome TE libraries, and perform comparative transposable element analysis across species.
@@ -11,7 +31,7 @@
 
 - title: Earl Grey
   subtitle: User-friendly TE annotation for everyone!
-  group: featured
+  group: tools-datasets
   image: images/projects/earlgrey.png
   link: https://github.com/TobyBaril/EarlGrey
   description: Fully automated, user-friendly, and reproducible transposable element annotation pipeline for eukaryotic genomes. Earl Grey is designed to be easy to use for both novice and experienced users, providing a comprehensive TE annotation workflow that can be run with minimal input and configuration.
@@ -22,6 +42,7 @@
 
 - title: MycoMobilome
   subtitle: A non-redundant database of transposable elements for the fungal kingdom
+  group: tools-datasets
   image: images/projects/mycomobilome.png
   link: https://github.com/TobyBaril/MycoMobilome
   paper: https://doi.org/10.1093/nargab/lqag026
@@ -30,3 +51,4 @@
   tags:
     - database
     - publication
+    - transposable-elements

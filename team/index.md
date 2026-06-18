@@ -7,7 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Meet the Lab
 
+We are building an inclusive and collaborative research environment and are looking for talented, curious, and motivated people to join us. 
+
+{% comment %}
 We are a diverse group of researchers with expertise in genomics, evolutionary biology, and bioinformatics. Our team is united by a shared passion for understanding the mechanisms shaping genome structure, adaptation, and biodiversity across the tree of life. Learn more about our group below, and feel free to reach out if you are interested in joining our lab or collaborating on research projects!
+
+{% endcomment %}
 
 {% include section.html %}
 

@@ -1,8 +1,11 @@
 ---
-title: Example post 3
+name: Joining Soon!
 image: images/photo.jpg
-author: john-doe
-tags: biology, medicine
+description: Postdoctoral Research Fellow
+role: postdoc
+group: current
+links:
+  email: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

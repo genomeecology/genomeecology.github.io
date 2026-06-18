@@ -1,12 +1,11 @@
 ---
-name: Sarah Johnson
+name: Joining Soon!
 image: images/photo.jpg
 description: Postdoctoral Research Fellow
 role: postdoc
 group: current
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

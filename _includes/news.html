@@ -1,0 +1,69 @@
+{% assign all_news = site.data.news %}
+{% assign news_initial = 10 %}
+
+<div class="news-legend">
+  <span class="news-legend-item news-paper"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Publication</span>
+  <span class="news-legend-item news-award"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> Award / Degree</span>
+  <span class="news-legend-item news-person"><i class="fa-solid fa-user" aria-hidden="true"></i> People</span>
+  <span class="news-legend-item news-event"><i class="fa-solid fa-calendar-days" aria-hidden="true"></i> Event</span>
+  <span class="news-legend-item news-other"><i class="fa-solid fa-circle-info" aria-hidden="true"></i> Other</span>
+</div>
+
+<div class="news-list">
+  {% for item in all_news %}
+    {% case item.type %}
+      {% when "paper" %}
+        {% assign news_icon  = "fa-solid fa-file-lines" %}
+        {% assign news_class = "news-paper" %}
+        {% assign news_label = "Publication" %}
+      {% when "person" %}
+        {% assign news_icon  = "fa-solid fa-user" %}
+        {% assign news_class = "news-person" %}
+        {% assign news_label = "People" %}
+      {% when "award" %}
+        {% assign news_icon  = "fa-solid fa-graduation-cap" %}
+        {% assign news_class = "news-award" %}
+        {% assign news_label = "Award / Degree" %}
+      {% when "event" %}
+        {% assign news_icon  = "fa-solid fa-calendar-days" %}
+        {% assign news_class = "news-event" %}
+        {% assign news_label = "Event" %}
+      {% else %}
+        {% assign news_icon  = "fa-solid fa-circle-info" %}
+        {% assign news_class = "news-other" %}
+        {% assign news_label = "Other" %}
+    {% endcase %}
+
+    {% if forloop.index0 >= news_initial %}
+      {% assign extra_class = " news-collapsed" %}
+    {% else %}
+      {% assign extra_class = "" %}
+    {% endif %}
+
+    <div class="news-item {{ news_class }}{{ extra_class }}">
+      <div class="news-icon" title="{{ news_label }}">
+        <i class="{{ news_icon }}" aria-hidden="true"></i>
+      </div>
+      <div class="news-content">
+        <span class="news-date">{{ item.date }}</span>
+        <span class="news-text">{{ item.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}</span>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+{% if all_news.size > news_initial %}
+<div class="news-more" id="news-expand-row">
+  <button
+    class="news-expand-btn"
+    aria-expanded="false"
+    onclick="
+      document.querySelectorAll('.news-collapsed').forEach(function(el){ el.classList.remove('news-collapsed'); });
+      document.getElementById('news-expand-row').style.display = 'none';
+    "
+  >
+    <i class="fa-solid fa-chevron-down" aria-hidden="true"></i>
+    Show all {{ all_news.size }} news items
+  </button>
+</div>
+{% endif %}

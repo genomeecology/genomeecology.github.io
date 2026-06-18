@@ -1,0 +1,43 @@
+- id: doi:10.1101/2025.10.28.685023
+  remove: true
+- id: doi:10.1101/2022.09.21.508825
+  remove: true
+- id: doi:10.1101/2020.03.03.972679
+  remove: true
+- id: doi:10.1101/2020.04.16.045815
+  remove: true
+- title: A draft genome sequence of the elusive giant squid, Architeuthis dux
+  date: '2022-05-29'
+  link: http://hdl.handle.net/10871/39675
+  orcid: 0000-0002-5936-7531
+  plugin: orcid.py
+  file: orcid.yaml
+  remove: true
+- id: 10.1093/gigascience/giac012
+  title: "Genome of the ramshorn snail Biomphalaria straminea—an obligate intermediate host of schistosomiasis"
+  authors:
+  - Wenyan Nong
+  - Yifei Yu
+  - Madeleine E Aase-Remedios
+  - Yichun Xie
+  - Wai Lok So
+  - Yiqian Li
+  - Cheuk Fung Wong
+  - Tobias Baril
+  - Sean T S Law
+  - Sheung Yee Lai
+  - Jasmine Haimovitz
+  - Thomas Swale
+  - Shan-shan Chen
+  - Zhen-peng Kai
+  - Xi Sun
+  - Zhongdao Wu
+  - Alexander Hayward
+  - David E K Ferrier
+  - Jerome H L Hui
+  publisher: GigaScience
+  date: '2026-02-15'
+  link: https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac012/6528774
+  orcid: 0000-0002-5936-7531
+- id: doi:10.1093/gigascience/giz152
+  date: '2020-01-16'
