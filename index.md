@@ -3,11 +3,11 @@
 
 # Welcome to our Lab!
 
-We are fascinated by how mobile DNA, genome architecture, and environmental change interact to shape evolution across the tree of life. By combining comparative genomics, evolutionary theory, computational biology, and interpretable machine learning, we investigate how mobile DNA interacts with host genomes and how these interactions shape genome innovation, adaptation, and evolutionary change.
+We are fascinated by how mobile DNA shapes genome architecture, drives adaptation, and generates biodiversity across the tree of life. By combining comparative genomics, evolutionary theory, and interpretable machine learning, we investigate how these elements interact with their host genomes, and what those interactions mean for genome innovation and evolutionary change.
 
-Our work spans processes from within-population genetic variation to deep evolutionary comparisons across the tree of life and across kingdoms. Alongside discovery-driven research, we develop open and user-friendly tools that make modern genomics more accessible and help the wider community explore genome evolution in their own research.
+Our work spans timescales from within-population variation to deep evolutionary comparisons across kingdoms. Alongside our curiosity-driven research, we develop open, user-friendly tools that make modern genomics more accessible and help the wider community explore genome evolution in their own work.
 
-We are based at the [Naturhistoriska Riksmuseet (Swedish Museum of Natural History)](https://www.nrm.se/engelska/in-english) in Stockholm, Sweden.
+We are based at the [Naturhistoriska Riksmuseet (Swedish Museum of Natural History)](https://www.nrm.se/engelska/in-english) in beautiful Stockholm, Sweden.
 
 **Interested in joining our lab? Check out our [open positions](positions) or [drop Toby a message](contact) to learn more.**
 

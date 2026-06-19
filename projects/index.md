@@ -7,9 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Interests and Projects
 
-Our lab is broadly focused on a range of questions in evolutionary genomics. We are particularly fascinated by the role of mobile DNA in shaping genome structure, adaptation, and biodiversity across both shallow (_i.e._ within populations) and deep evolutionary time. We work at the interface of **genomics**, **evolutionary biology**, and **computer science**, where we are always on the lookout for fun new problems to solve.
+We are fascinated by the forces that shape genomes over time, and what those changes reveal about adaptation and biodiversity. One recurring obsession is the role of mobile DNA in shaping genome structure, adaptation, and biodiversity, from within populations all the way through deep evolutionary time. We work at the interface of **genomics**, **evolutionary biology**, and **computer science**, and are always on the lookout for fun new problems to solve.
 
-We are also passionate about **open science** and **reproducible research**, and we actively develop and use open-source tools to facilitate **collaborative research** and lower barriers for the research community. Finally, we are committed to training the next generation of scientists and fostering a collaborative and inclusive research environment, where all members of our lab can thrive and contribute to our shared goals of understanding genome ecology and biodiversity change.
+We are deeply committed to **open science** and **reproducible research**, and we actively build and use open-source tools to support and empower the wider research community.
+
+We also care deeply about people. We are invested in training the next generation of scientists and in building a collaborative and inclusive space where curiosity drives our shared pursuit of understanding genome ecology and biodiversity.
 
 Below, you can explore our lab's interests.
 

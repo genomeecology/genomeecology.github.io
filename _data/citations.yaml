@@ -12,8 +12,13 @@
   date: '2026-06-17'
   link: https://doi.org/hb759r
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/2026.06.15.732387.jpg
+  tags:
+  - transposable elements
+  - lepidoptera
+  - comparative genomics
 - id: doi:10.1093/gbe/evag017
   title: "Chromosome-scale Genome Assembly of the Most Abundant Ectomycorrhizal Fungus\n\
     \                    <i>Cenococcum Geophilum</i>\n                    Reveals\
@@ -34,8 +39,13 @@
   date: '2026-01-22'
   link: https://doi.org/hbptjq
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/evag017.jpeg
+  tags:
+  - fungi
+  - genome
+  - transposable elements
 - id: doi:10.1016/j.cub.2025.11.062
   title: 'Evolution: Transposon traffic in the mycocosmos'
   authors:
@@ -44,19 +54,30 @@
   date: '2026-01-01'
   link: https://doi.org/hb72q5
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/j.cub.2025.11.062.jpg
+  tags:
+  - dispatch
+  - transposable elements
+  - fungi
 - id: doi:10.1016/j.tim.2025.07.006
   title: 'Hypermutator fungal pathogens: from threat to meltdown'
   authors:
   - Tobias Baril
   - Daniel Croll
   publisher: Trends in Microbiology
-  date: '2026-01-01'
+  date: '2025-08-07'
   link: https://doi.org/g9wqnw
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/j.tim.2025.07.006.jpg
+  tags:
+  - fungi
+  - transposable elements
+  - hypermutation
+  - opinion
 - id: doi:10.1038/s41467-025-64944-4
   title: Historic transposon mobilisation waves create distinct pools of adaptive
     variants in a major crop pathogen
@@ -68,8 +89,14 @@
   date: '2025-11-12'
   link: https://doi.org/g995zr
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/s41467-025-64944-4.jpeg
+  tags:
+  - transposable elements
+  - TE diversity and evolution
+  - population genomics
+  - fungi
 - id: doi:10.1038/s41598-025-19494-6
   title: Genomic structure and life history variation of isofemale lineages of Myzus
     persicae with different levels of parasitization by Diaeretiella rapae
@@ -85,8 +112,13 @@
   date: '2025-10-10'
   link: https://doi.org/hb72q6
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/s41598-025-19494-6.jpeg
+  tags:
+  - arthropods
+  - transposable elements
+  - resistance evolution
 - id: doi:10.1016/j.ibmb.2025.104403
   title: Sub-lethal insecticide stress alters epimutation rate but not genetic mutation
     rate in the pest insect Myzus persicae
@@ -107,8 +139,14 @@
   date: '2025-11-01'
   link: https://doi.org/hb72q7
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/j.ibmb.2025.104403.jpg
+  tags:
+  - experimental evolution
+  - transposable elements
+  - arthropods
+  - resistance evolution
 - id: doi:10.1093/molbev/msae197
   title: Genomic Signatures of Domestication in a Fungus Obligately Farmed by Leafcutter
     Ants
@@ -125,8 +163,14 @@
   date: '2024-09-17'
   link: https://doi.org/g5w39s
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/msae197.jpeg
+  tags:
+  - fungi
+  - genome
+  - transposable elements
+  - domestication
 - id: doi:10.1093/GBE/EVAE049
   title: Calling Structural Variants with Confidence from Short-Read Data in Wild
     Bird Populations
@@ -145,8 +189,13 @@
   date: '2024-03-15'
   link: https://doi.org/gtt8sg
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/EVAE049.jpeg
+  tags:
+  - birds
+  - structural variation
+  - resources
 - id: doi:10.1093/MOLBEV/MSAE068
   title: 'Earl Grey: A Fully Automated User-Friendly Transposable Element Annotation
     and Analysis Pipeline'
@@ -158,8 +207,16 @@
   date: '2024-04-01'
   link: https://doi.org/g8gs8q
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/highlights/earlgrey.png
+  tags:
+  - transposable elements
+  - TE diversity and evolution
+  - resources
+  - software
+  - github
+  - annotation
 - id: doi:10.1093/MOLBEV/MSAE246
   title: 'The Sensory Shark: High-quality Morphological, Genomic and Transcriptomic
     Data for the Small-spotted Catshark <i>Scyliorhinus Canicula</i> Reveal the Molecular
@@ -206,8 +263,13 @@
   date: '2024-12-01'
   link: https://doi.org/g84tb9
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/MSAE246.jpeg
+  tags:
+  - sharks
+  - genome
+  - transposable elements
 - id: doi:10.1101/gr.277820.123
   title: Transposon accumulation at xenobiotic gene family loci in aphids
   authors:
@@ -219,8 +281,14 @@
   date: '2023-10-01'
   link: https://doi.org/g5dkjr
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/gr.277820.123.jpg
+  tags:
+  - comparative genomics
+  - transposable elements
+  - arthropods
+  - TE diversity and evolution
 - id: doi:10.1093/MOLBEV/MSAD115
   title: A New Chromosome-Assigned Mongolian Gerbil Genome Allows Characterization
     of Complete Centromeres and a Fully Heterochromatic Chromosome
@@ -240,8 +308,13 @@
   date: '2023-05-01'
   link: https://doi.org/gr8rhf
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/MSAD115.jpeg
+  tags:
+  - genome
+  - transposable elements
+  - mammals
 - id: doi:10.1186/S13104-023-06613-7
   title: A pangenome-guided manually curated library of transposable elements for
     Zymoseptoria tritici
@@ -252,8 +325,13 @@
   date: '2023-11-16'
   link: https://doi.org/gs48q8
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/S13104-023-06613-7.jpeg
+  tags:
+  - transposable elements
+  - resources
+  - database
 - id: doi:10.1186/S12915-023-01703-1
   title: The genome and sex-dependent responses to temperature in the common yellow
     butterfly, Eurema hecabe
@@ -277,8 +355,13 @@
   date: '2023-09-25'
   link: https://doi.org/hb72q8
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/S12915-023-01703-1.jpeg
+  tags:
+  - genome
+  - lepidoptera
+  - transposable elements
 - id: doi:10.1016/j.ygeno.2022.110440
   title: 'Chromosomal-level reference genome of the moth Heortia vitessoides (Lepidoptera:
     Crambidae), a major pest of agarwood-producing trees'
@@ -298,8 +381,13 @@
   date: '2022-07-01'
   link: https://doi.org/hb72rb
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/j.ygeno.2022.110440.jpg
+  tags:
+  - genome
+  - lepidoptera
+  - transposable elements
 - id: doi:10.1038/s41467-022-30690-0
   title: Myriapod genomes reveal ancestral horizontal gene transfer and hormonal gene
     loss in millipedes
@@ -323,8 +411,14 @@
   date: '2022-05-30'
   link: https://doi.org/hb72rc
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/s41467-022-30690-0.jpeg
+  tags:
+  - genome
+  - arthropods
+  - comparative genomics
+  - transposable elements
 - id: doi:10.1093/g3journal/jkac069
   title: "The genome sequence of the lesser marbled fritillary,\n                \
     \    <i>Brenthis ino</i>\n                    , and evidence for a segregating\
@@ -342,8 +436,13 @@
   date: '2022-03-28'
   link: https://doi.org/gsxkbm
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/jkac069.jpeg
+  tags:
+  - genome
+  - lepidoptera
+  - transposable elements
 - id: doi:10.1186/s13100-022-00263-5
   title: 'Migrators within migrators: exploring transposable element dynamics in the
     monarch butterfly, Danaus plexippus'
@@ -354,8 +453,14 @@
   date: '2022-02-16'
   link: https://doi.org/hb72rd
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/s13100-022-00263-5.jpeg
+  tags:
+  - transposable elements
+  - lepidoptera
+  - TE diversity and evolution
+  - comparative genomics
 - id: doi:10.1111/MEC.16588
   title: "Genome\u2010wide transcriptomic changes reveal the genetic pathways involved\
     \ in insect migration"
@@ -378,8 +483,14 @@
   date: '2022-07-12'
   link: https://doi.org/hb72rf
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/MEC.16588.jpg
+  tags:
+  - transcriptomics
+  - genome
+  - transposable elements
+  - arthropods
 - id: doi:10.1093/G3JOURNAL/JKAC193
   title: "The genome sequence of the scarce swallowtail,\n                    <i>Iphiclides\
     \ podalirius</i>"
@@ -396,8 +507,13 @@
   date: '2022-08-05'
   link: https://doi.org/gsxqx8
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/JKAC193.jpeg
+  tags:
+  - genome
+  - lepidoptera
+  - transposable elements
 - id: doi:10.12688/wellcomeopenres.17280.1
   title: The genome sequence of the heath fritillary, Melitaea athalia (Rottemburg,
     1775)
@@ -411,8 +527,13 @@
   date: '2021-11-10'
   link: https://doi.org/hb72rg
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/wellcomeopenres.17280.1.jpg
+  tags:
+  - genome
+  - lepidoptera
+  - transposable elements
 - id: doi:10.1101/2021.09.26.461848
   title: Broadscale evolutionary analysis of eukaryotic DDE transposons
   authors:
@@ -423,8 +544,12 @@
   date: '2021-09-26'
   link: https://doi.org/gsx4kw
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/2021.09.26.461848.jpg
+  tags:
+  - transposable elements
+  - TE diversity and evolution
 - id: doi:10.1038/S42003-020-01637-2
   title: Horseshoe crab genomes reveal the evolution of genes and microRNAs after
     three rounds of whole genome duplication
@@ -459,8 +584,13 @@
   date: '2021-01-19'
   link: https://doi.org/gr8m34
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/S42003-020-01637-2.jpeg
+  tags:
+  - genome
+  - transposable elements
+  - arthropods
 - id: doi:10.1186/s12864-020-07145-1
   title: 'Genome of the four-finger threadfin Eleutheronema tetradactylum (Perciforms:
     Polynemidae)'
@@ -476,8 +606,13 @@
   date: '2020-10-19'
   link: https://doi.org/grc5f4
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/s12864-020-07145-1.jpeg
+  tags:
+  - genome
+  - transposable elements
+  - fish
 - id: doi:10.1186/s13100-020-00212-0
   title: Phylogenetic analysis of the Tc1/mariner superfamily reveals the unexplored
     diversity of pogo-like elements
@@ -490,8 +625,12 @@
   date: '2020-06-29'
   link: https://doi.org/hb72rh
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/s13100-020-00212-0.jpeg
+  tags:
+  - transposable elements
+  - TE diversity and evolution
 - id: doi:10.1186/s12864-020-07027-6
   title: Reconstruction of ancient homeobox gene linkages inferred from a new high-quality
     assembly of the Hong Kong oyster (Magallana hongkongensis) genome
@@ -508,8 +647,13 @@
   date: '2020-10-15'
   link: https://doi.org/hb72rj
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/s12864-020-07027-6.jpeg
+  tags:
+  - genome
+  - transposable elements
+  - molluscs
 - id: doi:10.1371/journal.pbio.3000636
   title: Millipede genomes reveal unique adaptations during myriapod evolution
   authors:
@@ -531,8 +675,14 @@
   date: '2020-09-29'
   link: https://doi.org/hb72rk
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/journal.pbio.3000636.png
+  tags:
+  - genome
+  - transposable elements
+  - arthropods
+  - comparative genomics
 - id: doi:10.1111/1755-0998.13154
   title: "Chromosomal\u2010level reference genome of the incense tree\n          \
     \          <i>Aquilaria sinensis</i>"
@@ -547,11 +697,16 @@
   - David T. W. Lau
   - Jerome H. L. Hui
   publisher: Molecular Ecology Resources
-  date: '2020-04-08'
+  date: '2020-03-10'
   link: https://doi.org/ggn3wf
   orcid: 0000-0002-5936-7531
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/1755-0998.13154.jpeg
+  tags:
+  - genome
+  - transposable elements
+  - plants
 - id: doi:10.1093/gigascience/giz152
   title: A draft genome sequence of the elusive giant squid, <i>Architeuthis dux</i>
   authors:
@@ -605,6 +760,31 @@
   orcid: 0000-0002-5936-7531
   plugin: sources.py
   file: sources.yaml
+  image: images/publications/giz152.jpeg
+  tags:
+  - genome
+  - transposable elements
+  - molluscs
+- id: 10.1093/nargab/lqag026
+  title: 'MycoMobilome: a community-focused non-redundant database of transposable
+    element consensus sequences for the fungal kingdom'
+  authors:
+  - Tobias Baril
+  - Daniel Croll
+  publisher: NAR Genomics and Bioinformatics
+  date: '2026-03-05'
+  link: https://doi.org/10.1093/nargab/lqag026
+  orcid: 0000-0002-5936-7531
+  image: images/projects/mycomobilome.png
+  tags:
+  - transposable elements
+  - fungi
+  - resources
+  - database
+  - github
+  - TE diversity and evolution
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1093/gigascience/giac012
   title: "Genome of the ramshorn snail Biomphalaria straminea\u2014an obligate intermediate\
     \ host of schistosomiasis"
@@ -629,8 +809,13 @@
   - David E K Ferrier
   - Jerome H L Hui
   publisher: GigaScience
-  date: '2026-02-15'
+  date: '2022-02-15'
   link: https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac012/6528774
   orcid: 0000-0002-5936-7531
+  image: images/publications/giac012.jpeg
+  tags:
+  - genome
+  - transposable elements
+  - molluscs
   plugin: sources.py
   file: sources.yaml
