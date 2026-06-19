@@ -7,6 +7,8 @@ affiliation: Naturhistoriska Riksmuseet
 aliases:
   - T. Baril
   - T Baril
+  - Tobias Baril
+  - Baril
 links:
   orcid: 0000-0002-5936-7531
   google-scholar: 9CVpP6sAAAAJ
