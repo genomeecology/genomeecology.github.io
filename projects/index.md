@@ -29,6 +29,6 @@ Below, you can explore our lab's interests.
 
 We believe that answering big evolutionary questions requires tools that are accessible to everyone. Alongside our biological research, we develop open-source software, databases, and reproducible workflows that help researchers explore genome evolution across diverse species. Our goal is to make cutting-edge genomic analyses easier to perform, easier to reproduce, and available to the wider scientific community. You can check out the tools and datasets developed by our lab below.
 
-{% include tags.html tags="software, transposable elements, database, publication" %}
+{% include tags.html tags="software, transposable elements, database, publication, tutorial, video" %}
 
 {% include list.html component="card" data="projects" filter="group == 'tools-datasets'" %}
