@@ -43,5 +43,16 @@
     {% if include.tags or include.repo %}
       {% include tags.html tags=include.tags repo=include.repo %}
     {% endif %}
+
+    {% if include.badges %}
+    <div class="project-badges">
+      {% for badge in include.badges %}
+      <a href="{{ badge.href }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ badge.src }}" alt="{{ badge.alt | default: 'badge' }}" loading="lazy" />
+      </a>
+      {% endfor %}
+    </div>
+    {% endif %}
+
   </div>
 </div>

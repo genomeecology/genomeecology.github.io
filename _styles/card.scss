@@ -50,3 +50,34 @@
   margin-top: -10px !important;
   font-style: italic;
 }
+
+// Add this block to _styles/-theme.scss (or any imported .scss file)
+// It styles the conda/anaconda badge strip on project cards.
+
+.project-badges {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-top: 10px;
+  margin-bottom: 4px;
+
+  a {
+    // Remove the default link underline on badge images
+    text-decoration: none;
+    line-height: 0; // prevents extra space below inline images
+
+    img {
+      height: 20px;   // Anaconda badges are natively ~20 px tall; adjust to taste
+      width: auto;
+      display: block; // avoids the 4 px baseline gap under inline images
+      border-radius: 3px;
+    }
+
+    // Slight lift on hover so badges feel interactive
+    &:hover img {
+      opacity: 0.85;
+      transition: opacity 0.15s ease;
+    }
+  }
+}

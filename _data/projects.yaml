@@ -37,6 +37,10 @@
   paper: https://doi.org/10.1093/nargab/lqag026
   description: MycoMobilome is a database of transposable elements (TEs) from the fungal kingdom. It provides a comprehensive and non-redundant collection of TEs, along with their classification, annotation, and associated metadata. MycoMobilome aims to facilitate the study of TE diversity, evolution, and impact on fungal genomes.
   repo: tobybaril/mycomobilome
+  badges:
+    - src: https://zenodo.org/badge/DOI/10.5281/zenodo.18243921.svg
+      alt: Zenodo
+      href: https://doi.org/10.5281/zenodo.18243921
   tags:
     - database
     - publication
@@ -49,6 +53,16 @@
   link: https://github.com/TobyBaril/EarlGrey
   description: Fully automated, user-friendly, and reproducible transposable element annotation pipeline for eukaryotic genomes. Earl Grey is designed to be easy to use for both novice and experienced users, providing a comprehensive TE annotation workflow that can be run with minimal input and configuration.
   repo: tobybaril/earlgrey
+  badges:
+    - src: https://anaconda.org/bioconda/earlgrey/badges/downloads.svg
+      alt: Bioconda
+      href: https://anaconda.org/bioconda/earlgrey
+    - src: https://anaconda.org/bioconda/earlgrey/badges/version.svg
+      alt: Bioconda
+      href: https://anaconda.org/bioconda/earlgrey
+    - src: https://anaconda.org/bioconda/earlgrey/badges/latest_release_date.svg
+      alt: Bioconda
+      href: https://anaconda.org/bioconda/earlgrey
   tags:
     - software
     - transposable-elements
