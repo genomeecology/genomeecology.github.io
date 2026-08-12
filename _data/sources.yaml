@@ -254,6 +254,22 @@
   - genome
   - transposable elements
   - plants
-
+- id: doi:10.64898/2026.07.21.739809
+  title: Comparative analyses reveal rapid turnover and emergence of transitory 3D genome architectures in the fungal kingdom
+  authors:
+  - Alice Laigle
+  - Camille Cornet
+  - Ashwini V. Mohan
+  - Tobias Baril
+  - Daniel Croll
+  publisher: openRxiv
+  date: '2026-07-21'
+  link: https://doi.org/10.64898/2026.07.21.739809
+  image: images/publications/2026.07.21.739809.jpg
+  tags:
+  - comparative genomics
+  - fungi
+  - structural variation
+  - transposable elements
 
 

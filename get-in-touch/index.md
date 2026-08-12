@@ -32,12 +32,13 @@ _Interested in joining the lab?_ Check out our [open positions](positions) or [d
 
 {% include section.html %}
 
+We are very grateful for funding from the following sources, which support our research and enable us to pursue our scientific goals:
+
 {% capture col1 %}
 
 {%
   include figure.html
-  image="images/highlights/NRM.jpeg"
-  caption="NRM Stockholm"
+  image="images/funding/SciLifeLab/Green_POS/Digital/SciLifeLab_Logotype_Green_POS.png"
 %}
 
 {% endcapture %}
@@ -46,8 +47,7 @@ _Interested in joining the lab?_ Check out our [open positions](positions) or [d
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/funding/NRM.png"
 %}
 
 {% endcapture %}
@@ -56,8 +56,7 @@ _Interested in joining the lab?_ Check out our [open positions](positions) or [d
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/funding/KAW.png"
 %}
 
 {% endcapture %}
