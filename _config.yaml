@@ -1,19 +1,18 @@
 # site properties and page defaults
-title: genomeecology
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: Mobile DNA, Evolutionary Dynamics, and Genome Ecology Lab
+subtitle: Naturhistoriska Riksmuseet (Swedish Museum of Natural History), Stockholm
+description: We are fascinated by the mechanisms that drive genome innovation and host adaption across the tree of life. By combining comparative genomics, evolutionary theory, and computational biology, we seek to understand how mobile DNA influences genome structure, adaptation, and biodiversity across deep evolutionary time.
+header: images/doubleHelix.png
+footer: images/doubleHelix.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@genomeecology.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: Tobias.Baril@nrm.se
+  orcid: 0000-0002-5936-7531
+  google-scholar: 9CVpP6sAAAAJ
   github: genomeecology
-  twitter: genomeecology
-  youtube: genomeecology
+  bluesky: tobybarilbio.bsky.social
 
 ### jekyll settings
 

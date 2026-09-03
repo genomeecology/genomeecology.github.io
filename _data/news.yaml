@@ -1,0 +1,11 @@
+# News items for the lab homepage
+# Types: paper | person | award | event | other
+# - paper:  publications and preprints
+# - person: people joining or leaving the lab
+# - award:  PhD defenses, grants, fellowships, prizes
+# - event:  conferences, retreats, lab social events
+# - other:  anything that doesn't fit above
+
+- date: "2 November 2026"
+  type: person
+  text: "Toby starts his fellowship at the Naturhistoriska Riksmuseet in Stockholm, Sweden! Look out for [open opportunities](open-positions) to join the lab coming soon!"

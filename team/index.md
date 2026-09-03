@@ -1,35 +1,20 @@
 ---
-title: Team
+title: Meet the Lab
 nav:
-  order: 3
+  order: 1
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Meet the Lab
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team is united by a shared passion for understanding the mechanisms shaping genome structure, adaptation, and biodiversity across the tree of life. Learn more about our group below, and feel free to reach out if you are interested in joining our lab or collaborating on research projects!
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'master' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' and group == 'current'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+{% include section.html background="images/doubleHelix.png" dark=true %}

@@ -1,9 +1,15 @@
 ---
 ---
 
-# genomeecology's Website
+# Welcome to our Lab!
 
-An engaging 1-3 sentence description of your lab.
+We are fascinated by how mobile DNA shapes genome architecture, drives adaptation, and generates biodiversity across the tree of life. By combining comparative genomics, evolutionary theory, and interpretable machine learning, we investigate how these elements interact with their host genomes, and what those interactions mean for genome innovation and evolutionary change.
+
+Our work spans timescales from within-population variation to deep evolutionary comparisons across kingdoms. Alongside our curiosity-driven research, we develop open, user-friendly tools that make modern genomics more accessible and help the wider community explore genome evolution in their own work.
+
+We are based at the [Naturhistoriska Riksmuseet (Swedish Museum of Natural History)](https://www.nrm.se/engelska/in-english) in beautiful Stockholm, Sweden.
+
+**Interested in joining our lab? Check out our [open positions](positions) or [drop Toby a message](contact) to learn more.**
 
 {% include section.html %}
 
@@ -11,55 +17,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is united by a shared passion for understanding the mechanisms shaping genome structure, adaptation, and biodiversity across the tree of life.
 
 {%
   include button.html
@@ -74,8 +32,39 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/highlights/NRM.jpeg"
   link="team"
-  title="Our Team"
+  title="Meet the Lab"
   text=text
 %}
+
+{% capture text %}
+
+We work at the interface of **genomics**, **evolutionary biology**, and **computer science**, where we are always on the lookout for fun new problems to solve. 
+
+{%
+  include button.html
+  link="projects"
+  text="See what we're up to"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/highlights/earlgrey.png"
+  link="projects"
+  title="Our Interests"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% include section.html %}
+
+# News
+
+{% include news.html %}

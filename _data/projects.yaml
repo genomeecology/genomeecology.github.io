@@ -1,47 +1,81 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+- title: Transposable Elements, Host-TE Interactions, and Genome Evolution
+  group: interests
+  image: images/projects/te-phylo.png
+  description: We are fascinated by the role of transposable elements (TEs) in shaping genomes and generating genetic novelty. We view these interactions through an ecological lens, where the genome is itself an environment in which TEs must survive and replicate alongside the host machinery that seeks to suppress them and maintain genome integrity. We investigate how these mobile pieces of DNA interact with their hosts, influence adaptation, and contribute to genome evolution across the tree of life. By studying organisms ranging from fungi to plants and animals, and timescales ranging from contemporary populations to hundreds of millions of years of evolution, we aim to understand when TEs act as genomic parasites, when they become drivers of innovation, and how these interactions shape biodiversity.
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+- title: Ecological Interactions and Biodiversity Change
+  group: interests
+  image: images/projects/genome-ecology.png
+  description: We want to understand how ecological change at every scale, from within genomes to across ecosystems, shapes adaptation and biodiversity. Just as species interact with one another in ecosystems, genomes are shaped by the environments in which they evolve. We investigate how environmental change influences genome architecture and structural variation, and how these changes contribute to adaptation. By linking ecological processes to genome evolution, we aim to understand how species respond to environmental challenges and what this means for the future of biodiversity.
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: AI and Computational Tools for Biodiversity Genomics
+  group: interests
+  image: images/projects/ai-genomics.png
+  description: We are excited by the potential of artificial intelligence (AI) to transform how we study genome evolution. We develop interpretable AI approaches that help researchers identify and understand genes, TEs, and other genomic features across diverse organisms. Rather than treating AI as a black box, we aim to use these models to uncover the biological rules that govern genome organisation and evolution. In parallel, we develop tools that make genomic analyses more accessible across the diversity of life.
+
+- title: The Evolutionary History of Mobile DNA
+  group: interests
+  image: images/projects/te-evolution.png
+  description: How did TEs become such a widespread and enduring feature of eukaryotic genomes? Using large-scale comparative genomics, we reconstruct the origins, diversification, and spread of TEs across the tree of life. By tracing their evolutionary histories over hundreds of millions of years, we aim to understand why some TE lineages flourish while others disappear, and how TEs have evolved to persist over deep time.
+
+- title: Earl Grey ParTEA
+  subtitle: Multiple genomes? Time for a ParTEA!
+  group: tools-datasets
+  image: images/projects/partea.png
+  link: https://github.com/TobyBaril/EarlGreyParTEA
+  description: ParTEA (Pangenome Transposable Element Analysis) is a Snakemake-based pipeline that brings the party to multi-genome TE annotation! It extends EarlGrey to process multiple genomes in parallel, build pangenome TE libraries, and perform comparative transposable element analysis across species.
+  repo: tobybaril/earlgreypartea
   tags:
-    - resource
+    - software
+    - transposable-elements
+
+- title: MycoMobilome
+  subtitle: A non-redundant database of transposable elements for the fungal kingdom
+  group: tools-datasets
+  image: images/projects/mycomobilome.png
+  link: https://github.com/TobyBaril/MycoMobilome
+  paper: https://doi.org/10.1093/nargab/lqag026
+  description: MycoMobilome is a database of transposable elements (TEs) from the fungal kingdom. It provides a comprehensive and non-redundant collection of TEs, along with their classification, annotation, and associated metadata. MycoMobilome aims to facilitate the study of TE diversity, evolution, and impact on fungal genomes.
+  repo: tobybaril/mycomobilome
+  badges:
+    - src: https://zenodo.org/badge/DOI/10.5281/zenodo.18243921.svg
+      alt: Zenodo
+      href: https://doi.org/10.5281/zenodo.18243921
+  tags:
+    - database
     - publication
+    - transposable-elements
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Earl Grey
+  subtitle: User-friendly TE annotation for everyone!
+  group: tools-datasets
+  image: images/projects/earlgrey.png
+  link: https://github.com/TobyBaril/EarlGrey
+  description: Fully automated, user-friendly, and reproducible transposable element annotation pipeline for eukaryotic genomes. Earl Grey is designed to be easy to use for both novice and experienced users, providing a comprehensive TE annotation workflow that can be run with minimal input and configuration.
+  repo: tobybaril/earlgrey
+  badges:
+    - src: https://anaconda.org/bioconda/earlgrey/badges/downloads.svg
+      alt: Bioconda
+      href: https://anaconda.org/bioconda/earlgrey
+    - src: https://anaconda.org/bioconda/earlgrey/badges/version.svg
+      alt: Bioconda
+      href: https://anaconda.org/bioconda/earlgrey
+    - src: https://anaconda.org/bioconda/earlgrey/badges/latest_release_date.svg
+      alt: Bioconda
+      href: https://anaconda.org/bioconda/earlgrey
   tags:
     - software
+    - transposable-elements
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Earl Grey Tutorial
+  subtitle: A (little dated) introduction to the Earl Grey TE annotation pipeline, first presented at Biodiversity Genomics Academy 2023.
+  group: tools-datasets
+  image: images/projects/tutorial.jpg
+  link: https://www.youtube.com/watch?v=LT6dpFKfHEg
+  description: A tutorial on how to use the Earl Grey TE annotation pipeline, presented at the Biodiversity Genomics Academy 2023. This tutorial provides an introduction to the features and capabilities of Earl Grey, as well as a step-by-step guide on how to run the pipeline and interpret the results. There is also a little Q&A at the end, where Toby answers some of the questions that came up during the workshop.
+  repo: tobybaril/earlgrey
   tags:
     - software
+    - transposable-elements
+    - tutorial
+    - video
