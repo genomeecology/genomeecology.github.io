@@ -72,7 +72,7 @@
   group: tools-datasets
   image: images/projects/tutorial.jpg
   link: https://www.youtube.com/watch?v=LT6dpFKfHEg
-  description: A tutorial on how to use the Earl Grey TE annotation pipeline, presented at the Biodiversity Genomics Academy 2023. This tutorial provides an introduction to the features and capabilities of Earl Grey, as well as a step-by-step guide on how to run the pipeline and interpret the results. There is also a little Q&A at the end, where I answer some of the questions that came up during the workshop.
+  description: A tutorial on how to use the Earl Grey TE annotation pipeline, presented at the Biodiversity Genomics Academy 2023. This tutorial provides an introduction to the features and capabilities of Earl Grey, as well as a step-by-step guide on how to run the pipeline and interpret the results. There is also a little Q&A at the end, where Toby answers some of the questions that came up during the workshop.
   repo: tobybaril/earlgrey
   tags:
     - software
