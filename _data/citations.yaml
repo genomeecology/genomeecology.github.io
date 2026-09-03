@@ -806,7 +806,7 @@
   - TE diversity and evolution
   plugin: sources.py
   file: sources.yaml
-- id: 10.1093/gigascience/giac012
+- id: pmid:35166339
   title: "Genome of the ramshorn snail Biomphalaria straminea\u2014an obligate intermediate\
     \ host of schistosomiasis"
   authors:
