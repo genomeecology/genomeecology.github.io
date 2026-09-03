@@ -1,1 +1,1 @@
-Sitemap: http://genome-ecology.com/sitemap.xml
+Sitemap: https://genome-ecology.com/sitemap.xml
