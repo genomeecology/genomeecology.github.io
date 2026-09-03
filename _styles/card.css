@@ -47,4 +47,27 @@
   font-style: italic;
 }
 
+.project-badges {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-top: 10px;
+  margin-bottom: 4px;
+}
+.project-badges a {
+  text-decoration: none;
+  line-height: 0;
+}
+.project-badges a img {
+  height: 20px;
+  width: auto;
+  display: block;
+  border-radius: 3px;
+}
+.project-badges a:hover img {
+  opacity: 0.85;
+  transition: opacity 0.15s ease;
+}
+
 /*# sourceMappingURL=card.css.map */
