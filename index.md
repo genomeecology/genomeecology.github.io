@@ -9,7 +9,7 @@ Our work spans timescales from within-population variation to deep evolutionary 
 
 We are based at the [Naturhistoriska Riksmuseet (Swedish Museum of Natural History)](https://www.nrm.se/engelska/in-english) in beautiful Stockholm, Sweden.
 
-**Interested in joining our lab? Check out our [open positions](positions) or [drop Toby a message](contact) to learn more.**
+**Interested in joining our lab? Check out our [open positions](open-positions) or [drop Toby a message](get-in-touch) to learn more.**
 
 {% include section.html %}
 
