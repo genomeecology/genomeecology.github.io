@@ -25,6 +25,16 @@
   link: https://github.com/TobyBaril/EarlGreyParTEA
   description: ParTEA (Pangenome Transposable Element Analysis) is a Snakemake-based pipeline that brings the party to multi-genome TE annotation! It extends EarlGrey to process multiple genomes in parallel, build pangenome TE libraries, and perform comparative transposable element analysis across species.
   repo: tobybaril/earlgreypartea
+  badges:
+    - src: https://anaconda.org/bioconda/earlgrey-partea/badges/downloads.svg
+      alt: Bioconda
+      href: https://anaconda.org/bioconda/earlgrey-partea
+    - src: https://anaconda.org/bioconda/earlgrey-partea/badges/version.svg
+      alt: Bioconda
+      href: https://anaconda.org/bioconda/earlgrey-partea
+    - src: https://anaconda.org/bioconda/earlgrey-partea/badges/latest_release_date.svg
+      alt: Bioconda
+      href: https://anaconda.org/bioconda/earlgrey-partea
   tags:
     - software
     - transposable-elements
