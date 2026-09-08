@@ -18,3 +18,12 @@ Check out what's been happening in the lab, and what happens outside of it!
 {% include search-info.html %}
 
 {% include list.html data="posts" component="post-excerpt" %}
+
+# Latest from BlueSky
+
+<script src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+<bsky-embed  
+  username="tobybarilbio.bsky.social"  
+  limit="5"  
+>  
+</bsky-embed>
