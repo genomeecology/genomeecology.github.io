@@ -3,7 +3,7 @@
 # team member roles
 
 principal-investigator:
-  icon: fa-solid fa-glasses
+  icon: fa fa-bicycle
   description: Principal Investigator
 
 postdoc:
