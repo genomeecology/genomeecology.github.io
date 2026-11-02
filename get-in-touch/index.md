@@ -14,8 +14,8 @@ _Interested in joining the lab?_ Check out our [open positions](positions) or [d
 {%
   include button.html
   type="email"
-  text="Tobias.Baril@unine.ch"
-  link="tobias.baril@unine.ch"
+  text="Tobias.Baril@nrm.se"
+  link="Tobias.Baril@nrm.se"
 %}
 {%
   include button.html
