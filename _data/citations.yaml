@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.11.04.764261
+  title: 'Earl Grey ParTEA: scalable, consistent transposable element annotation from
+    pangenomes to deep phylogenetic scopes'
+  authors:
+  - Tobias J Baril
+  - Alice Feurtey
+  - Daniel Croll
+  publisher: openRxiv
+  date: '2026-11-05'
+  link: https://doi.org/hcrbth
+  orcid: 0000-0002-5936-7531
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - transposable elements
+  - comparative genomics
+  - TE diversity and evolution
+  - resources
+  - software
+  - github
+  - annotation
+  image: images/publications/2026.11.04.764261.png
 - id: doi:10.64898/2026.07.21.739809
   title: Comparative analyses reveal rapid turnover and emergence of transitory 3D
     genome architectures in the fungal kingdom

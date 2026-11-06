@@ -34,4 +34,5 @@ ${DOCKER_RUN} ${PLATFORM} \
     --publish 4000:4000 \
     --publish 35729:35729 \
     --volume "${WORKING_DIR}:/usr/src/app" \
+    --mount "type=volume,source=lab-website-citation-cache,target=/usr/src/app/_cite/.cache,volume-nocopy" \
     ${IMAGE} "$@"
