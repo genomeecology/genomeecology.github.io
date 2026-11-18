@@ -6,6 +6,14 @@
 # - event:  conferences, retreats, lab social events
 # - other:  anything that doesn't fit above
 
+- date: "18 November 2026"
+  type: person
+  text: "In this interview, Toby discusses his new role at the [Naturhistoriska Riksmuseet (Swedish Museum of Natural History)](https://www.nrm.se/engelska/in-english) in Stockholm, Sweden as a [DDLS Fellow](https://www.ddls.se/). You can read the full interview [here](https://www.scilifelab.se/news/new-ddls-fellow-tobias-baril/)."
+
+- date: "4 November 2026"
+  type: paper
+  text: "Our preprint for Earl Grey ParTEA is now out! Find it on [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.11.04.764261v1) and read more about it on our [blog](lab-activities)."
+
 - date: "2 November 2026"
   type: person
   text: "Toby starts his fellowship at the Naturhistoriska Riksmuseet in Stockholm, Sweden! Look out for [open opportunities](open-positions) to join the lab coming soon!"
