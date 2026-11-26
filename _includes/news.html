@@ -1,4 +1,4 @@
-{% assign all_news = site.data.news %}
+{% assign all_news = site.posts | where_exp: "post", "post.news_summary != nil and post.news_summary != ''" %}
 {% assign news_initial = 10 %}
 
 <div class="news-legend">
@@ -11,7 +11,7 @@
 
 <div class="news-list">
   {% for item in all_news %}
-    {% case item.type %}
+    {% case item.news_type %}
       {% when "paper" %}
         {% assign news_icon  = "fa-solid fa-file-lines" %}
         {% assign news_class = "news-paper" %}
@@ -45,8 +45,11 @@
         <i class="{{ news_icon }}" aria-hidden="true"></i>
       </div>
       <div class="news-content">
-        <span class="news-date">{{ item.date }}</span>
-        <span class="news-text">{{ item.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}</span>
+        <span class="news-date">{{ item.date | date: "%-d %B %Y" }}</span>
+        <span class="news-text">
+          {{ item.news_summary | markdownify | remove: "<p>" | remove: "</p>" | strip }}
+          <a href="{{ item.url | relative_url }}" aria-label="Read more: {{ item.title | escape }}">Read more</a>
+        </span>
       </div>
     </div>
   {% endfor %}
